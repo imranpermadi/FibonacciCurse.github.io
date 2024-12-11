@@ -1,0 +1,14 @@
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\bin\Debug\net6.0\FibonacciCurseApp.exe
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\bin\Debug\net6.0\FibonacciCurseApp.deps.json
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\bin\Debug\net6.0\FibonacciCurseApp.runtimeconfig.json
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\bin\Debug\net6.0\FibonacciCurseApp.dll
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\bin\Debug\net6.0\FibonacciCurseApp.pdb
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.AssemblyInfoInputs.cache
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.AssemblyInfo.cs
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.csproj.CoreCompileInputs.cache
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.dll
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\refint\FibonacciCurseApp.dll
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.pdb
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\FibonacciCurseApp.genruntimeconfig.cache
+D:\Project\FibonacciCurseApp\FibonacciCurseApp\obj\Debug\net6.0\ref\FibonacciCurseApp.dll
